@@ -18,7 +18,7 @@ Acompañemiento del BOT: https://chatgpt.com/g/g-67e4731b422481919463f4b52818e9c
 | GUTIERREZ CEPEDA ANDRES | Sensor de pulso cardíaco (MAX30100) | Sensor de temperatura infrarrojo (MLX90614) |----Poner aqui--|
 | IÑIGUEZ GALLEGO CARLOS ALBERTO | Sensor de distancia láser (VL53L0X) | Sensor de voltaje (ZMPT101B) |---Poner aqui----|
 | LUA VELASCO JORGE ALEXIS | Sensor de inclinación | Sensor de humedad relativa (SHT31) |----Poner aqui--|
-| LUNA GOMEZ JESUS URIEL | Sensor magnético (Reed Switch) | Sensor de peso (HX711 + celda) |---Poner aqui----|
+  | LUNA GOMEZ JESUS URIEL | Sensor magnético (Reed Switch) | Sensor de peso (HX711 + celda) |[GIST](https://gist.github.com/fd636f16e513eb235e42d1928d6ac8bd.git)|
 | MOLINA FABELA EDGAR FABIAN | Sensor UV (VEML6075) | Sensor de nivel de agua (analógico) |-----Poner aqui---|
 | MORA LOPEZ ERIC SAID | Sensor de color (TCS34725) | Sensor de gas propano (MQ-6) |------Poner aqui---|
 | OCHOA MORAN VICTOR ALEJANDRO | Sensor de calidad de aire (BME680) | Sensor PIR dual zona |---Poner aqui----|
